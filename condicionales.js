@@ -6,7 +6,6 @@ let permisosUsuario = "guardar, descargar, editar";
 
 let estaAutenticado = true;
 
-
 if( !estaAutenticado ){
 
     alert("Debe primero estar autenticado");
